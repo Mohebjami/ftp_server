@@ -18,7 +18,7 @@ This is a simple FTP server application with a graphical user interface (GUI) bu
 
 1. **Clone the repository or download the files**:
     ```bash
-    git clone <your-repository-link>
+    git clone https://github.com/Mohebjami/ftp_server.git
     cd <your-repository-folder>
     ```
 
